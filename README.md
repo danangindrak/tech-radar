@@ -2,7 +2,7 @@
 
 ## ebconnect.com Tech Radar 
 
-- Backend : [https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/danangindrak/tech-radar/main/backend.csv](https://radar.thoughtworks.com/?sheetId=https://raw.githubusercontent.com/danangindrak/tech-radar/main/backend.csv)
+- Backend : [https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fdanangindrak%2Ftech-radar%2Fmain%2Fbackend.csv](https://radar.thoughtworks.com/?sheetId=https%3A%2F%2Fraw.githubusercontent.com%2Fdanangindrak%2Ftech-radar%2Fmain%2Fbackend.csv)
 
 ## What is the Tech Radar?
 
