@@ -22,7 +22,6 @@
 "Spring Boot 1.x","hold","Languages and Frameworks","false","Spring Boot is our main framework for backend"
 "X Framework","hold","Languages and Frameworks","false","X-Framework is our old framework, we will not use it anymore, please use Spring Boot"
 "Play Framework","hold","Languages and Frameworks","false","Because we are not using Scala anymore, so we also will not using Play Framework anymore"
-"Blibli Data Migration","adopt","Library","false","<a href='https://github.com/bliblidotcom/data-migration'>Blibli Data Migration</a> is our main library for create database migration, it support PostgreSQL, MongoDB and Elasticsearch"
 "Logback","adopt","Library","false","Logback is our main logging library"
 "Lombok","adopt","Library","false","Lombok is library for generate data class for Java"
 "Spring Cloud Gateway","adopt","Library","true","Spring Cloud Gateway is main library for create API Gateway in Spring Boot"
