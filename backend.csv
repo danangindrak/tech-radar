@@ -1,0 +1,50 @@
+"name,""ring"",""quadrant"",""isNew"",""description"""
+"PostgresSQL,""adopt"",""Datastore"",""false"",""Relational database for our backend services"""
+"Redis,""adopt"",""Datastore"",""false"",""In memory datastore for our backend services"""
+"Memcached,""adopt"",""Datastore"",""true"",""Multicore memory database"""
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+"Docker,""adopt"",""Tool & Platform"",""false"",""We build our backend application as Docker image"""
+"Kubernetes,""adopt"",""Tool & Platform"",""false"",""We use Kubernetes for container orchestration tool"""
+"Netty,""adopt"",""Tool & Platform"",""false"",""Netty is our main web server for new backend"""
+"Jenkins,""adopt"",""Tool & Platform"",""false"",""Jenkins is our main automation server for CI/CD"""
+"Bamboo,""hold"",""Tool & Platform"",""false"",""For new project, please use Jenkins as automation server"""
+"Apache Tomcat,""hold"",""Tool & Platform"",""false"",""For new project please use Netty"""
